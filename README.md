@@ -1,24 +1,36 @@
- Descriptive Analytics Practicals & Report
- Question: What Happened? | Understanding the Past**
+Descriptive Analytics Lab - What Happened?
 
-This repository contains all Descriptive Analytics lab practicals from P1 to P7, summarizing 781 customer transactions and Swiggy operational data.
+> Understanding Past Data through Descriptive Analytics
 
- Practicals Included
-- P1 - Superstore Analysis 
-- P2 - Grouping Report
-- P3 - Filtering Report  
-- P4 - Crosstab Report 
-- P5 - Cascading Report
-- P6 - Dashboard - Final Dashboard (781 Customers)
-- P7 - Swiggy Case Study
+This repository contains 2 distinct sections as per practical file.
+SECTION A: Data Module & Cognos Practicals 
+Base Data Module: Exported language.csv /Data Module
 
-- 
- Tools Used
-IBM Cognos Analytics | Excel
+All 6 practicals are implemented on this module using IBM Cognos Analytics.
 
- Final Key Insight
-Q: What Happened?
-A: Pune is Top City, Fast Food is Top Cuisine, UPI is Top Payment (32%)
+ Practical 1 - Superstore Analysis report
+ Practical 2 - Grouping Report 
+ Practical 3 -  Filtering Report
+ Practical 4 -  Crosstab Report 
+ Practical 5 - Cascading Report 
+ Practical 6 -  Dashboard Report 
+
+* Tool: IBM Cognos Analytics 
+
+ SECTION B: Swiggy Case Study (REPORT)
+This is a completely separate analysis on Swiggy Food App data.
 
 
-Submitted by: dwivediaprajita00 | BCA Data Analytics
+dataset Swiggy Food Analytics: Dataset - Swiggy Orders 
+Final Descriptive Analytics Report on Swiggy Data 
+
+*Key Insights from Swiggy Report (P7)
+ #Top City: Pune
+#Top Food: Fast Food Category
+#Payment: UPI is 32% (Most Used)
+#Question Answered:What Happened in Swiggy Operations?
+
+Tools:IBM Cognos, Excel, Python 
+Submitted By: dwivediaprajita00  
+
+ 
