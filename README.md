@@ -11,6 +11,8 @@ This repository contains all Descriptive Analytics lab practicals from P1 to P7,
 - P5 - Cascading Report
 - P6 - Dashboard - Final Dashboard (781 Customers)
 - P7 - Swiggy Case Study
+
+- 
  Tools Used
 IBM Cognos Analytics | Excel
 
