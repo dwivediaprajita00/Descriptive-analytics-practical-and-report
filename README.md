@@ -3,6 +3,7 @@ Descriptive Analytics Lab - What Happened?
 > Understanding Past Data through Descriptive Analytics
 
 This repository contains 2 distinct sections as per practical file.
+
 SECTION A: Data Module & Cognos Practicals 
 Base Data Module: Exported language.csv /Data Module
 
